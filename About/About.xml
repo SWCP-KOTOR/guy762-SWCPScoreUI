@@ -8,6 +8,8 @@
 	</supportedVersions>
 	<packageId>SWCP.guy762.StarWarsScoreUI</packageId>
 	<description>Adds music and user interface design from Star Wars. NOTE: THE FONT IS NOT INSTALLED BY DEFAULT! PLEASE REFER TO INSTRUCTIONS IN THE About FOLDER TO INSTALL IT!</description>
+	<url>https://github.com/SWCP-KOTOR/guy762-SWCPScoreUI</url>
+	
   
 	<modDependencies>
 		<!-- <li> -->
