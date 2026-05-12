@@ -1,0 +1,82 @@
+<Defs>
+    
+	
+	<MusicExpanded.ThemeDef>
+        <defName>SWCP_MusicTheme_WarlordEmpire</defName>
+		<label>Star Wars: Untitled GCW Project</label>
+		<iconPath>UI/Stormtrooper</iconPath>
+        <description>Star Wars</description>
+        <sounds>
+            <!-- <li>ME_Glitterworld_Scenario_Begin</li> -->
+            <!-- <li>ME_Glitterworld_Invasion_Alert</li> -->
+            <!-- <li>ME_Glitterworld_Quest_Complete</li> -->
+        </sounds>
+        <tracks>
+			<li>SWCP_METrack_KotORTitle</li>
+			<li>SWCP_METrack_KotORIITitle</li>
+			<!-- <li>SWCP_METrack_WarlordEmpireTitle</li> -->
+
+			<li>SWCP_METrack_WarlordEmpire_AnyIntenseA</li>
+			<li>SWCP_METrack_WarlordEmpire_AnyIntenseB</li>
+			<li>SWCP_METrack_WarlordEmpire_AnyIntenseC</li>
+			<li>SWCP_METrack_WarlordEmpire_AnyIntenseD</li>
+			<li>SWCP_METrack_WarlordEmpire_AnyIntenseE</li>
+			<li>SWCP_METrack_WarlordEmpire_AnyIntenseF</li>
+			
+			<li>SWCP_METrack_WarlordEmpire_SithCasualA</li>
+			<li>SWCP_METrack_WarlordEmpire_SithCasualB</li>
+			<li>SWCP_METrack_WarlordEmpire_SithCasualC</li>
+			<li>SWCP_METrack_WarlordEmpire_SithCasualD</li>
+			<li>SWCP_METrack_WarlordEmpire_SithCasualE</li>
+
+			<li>SWCP_METrack_WarlordEmpire_SithIntenseA</li>
+
+			<li>SWCP_METrack_WarlordEmpire_ImperialCasualA</li>
+			<li>SWCP_METrack_WarlordEmpire_ImperialCasualB</li>
+			<li>SWCP_METrack_WarlordEmpire_ImperialCasualC</li>
+			<li>SWCP_METrack_WarlordEmpire_ImperialCasualD</li>
+			<!-- <li>SWCP_METrack_WarlordEmpire_ImperialCasualE</li> -->
+			<li>SWCP_METrack_WarlordEmpire_ImperialCasualF</li>
+			<li>SWCP_METrack_WarlordEmpire_ImperialCasualG</li>
+
+			<li>SWCP_METrack_WarlordEmpire_ScumCasualA</li>
+			<li>SWCP_METrack_WarlordEmpire_ScumCasualB</li>
+			<li>SWCP_METrack_WarlordEmpire_ScumCasualC</li>
+			<li>SWCP_METrack_WarlordEmpire_ScumCasualD</li>
+			<li>SWCP_METrack_WarlordEmpire_ScumCasualE</li>
+			<li>SWCP_METrack_WarlordEmpire_ScumCasualF</li>
+
+			<li>SWCP_METrack_WarlordEmpire_ScumIntenseA</li>
+			<li>SWCP_METrack_WarlordEmpire_ScumIntenseB</li>
+
+
+
+			<li>SWCP_METrack_WarlordEmpire_SpaceBiomeA</li>
+			<li>SWCP_METrack_WarlordEmpire_SpaceBiomeB</li>
+			<li>SWCP_METrack_WarlordEmpire_SpaceBiomeC</li>
+			<li>SWCP_METrack_WarlordEmpire_SpaceBiomeD</li>
+			
+			<li>SWCP_METrack_WarlordEmpire_UrbanBiomeA</li>
+			<li>SWCP_METrack_WarlordEmpire_UrbanBiomeB</li>
+			<li>SWCP_METrack_WarlordEmpire_UrbanBiomeC</li>
+			<li>SWCP_METrack_WarlordEmpire_UrbanBiomeD</li>
+			<li>SWCP_METrack_WarlordEmpire_UrbanBiomeE</li>
+			<li>SWCP_METrack_WarlordEmpire_UrbanBiomeF</li>
+			<li>SWCP_METrack_WarlordEmpire_UrbanBiomeG</li>
+			<li>SWCP_METrack_WarlordEmpire_UrbanBiomeH</li>
+			<li>SWCP_METrack_WarlordEmpire_UrbanBiomeI</li>
+			<li>SWCP_METrack_WarlordEmpire_UrbanBiomeJ</li>
+
+			<li>SWCP_METrack_WarlordEmpire_DesertBiomeA</li>
+			<li>SWCP_METrack_WarlordEmpire_DesertBiomeB</li>
+
+			<li>SWCP_METrack_WarlordEmpire_GrasslandBiomeA</li>
+			<li>SWCP_METrack_WarlordEmpire_GrasslandBiomeB</li>
+			
+			<li>SWCP_METrack_WarlordEmpire_SwampBiomeA</li>
+			<li>SWCP_METrack_WarlordEmpire_SwampBiomeB</li>
+        </tracks>
+    </MusicExpanded.ThemeDef>
+	
+	
+</Defs>

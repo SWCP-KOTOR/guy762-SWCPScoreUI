@@ -1,0 +1,9 @@
+INSTALLING THE FONT:
+- Right click each of the four .ttf files in this folder and select "Install for all users" (it's an administrator command)
+- Next, navigate to your Config folder (Users/[your user account]/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios/Config
+- Copy and paste the Mod_3231727915_CustomFonts.xml file into this folder
+- This file is the font configuration settings I use. I can't set this as a default at all, but I'm providing them here so you don't have to mess around with it yourself. My monitor resolution is 2560x1440, so if you run something smaller you may still want to adjust it to your preference anyways.
+
+ADDITIONAL NOTES:
+- I think the font manager mod only uses EaW-medium, so technically the other three aren't necessary, but just in case I'm wrong they are provided here anyways.
+- These fonts were obtained from the Empire at War Expanded Discord, credit to the uploader: https://discord.com/channels/153355147173560320/726303835588657183/1380593414009262250
