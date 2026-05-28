@@ -58,37 +58,37 @@
 			<!-- <li MayRequire="Ludeon.RimWorld.Odyssey">Space</li> -->
 			<!-- <li MayRequire="Ludeon.RimWorld.Odyssey">Orbit</li> -->
 			
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_Orbit</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_Orbit</li> -->
 			
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_TatooineExtremeDesert</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_TatooineHighland</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_TatooineExtremeDesert</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_TatooineHighland</li> -->
 			
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellUrban</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellJunkyard</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellJunkSwamp</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellGrasslands</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellScrubland</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellDesert</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellTundra</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellLavaField</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellUrban</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellJunkyard</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellJunkSwamp</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellGrasslands</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellScrubland</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellDesert</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellTundra</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellLavaField</li> -->
 			
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_RhenVarGlacialPeaks</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_RhenVarGlacialHighland</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_RhenVarGlacialWastes</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_RhenVarGlacialPeaks</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_RhenVarGlacialHighland</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_RhenVarGlacialWastes</li> -->
 			
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_NevarroAshFlatsDesert</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_NevarroHighland</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_NevarroLavaField</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_NevarroAshFlatsDesert</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_NevarroHighland</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_NevarroLavaField</li> -->
 			
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonUrban</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonJungle</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonSwampyJungle</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonSavannah</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonVeldt</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonHighland</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonUrban</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonJungle</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonSwampyJungle</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonSavannah</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonVeldt</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonHighland</li> -->
 			
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_DxunJungle</li> -->
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_DxunSwamp</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_DxunJungle</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_DxunSwamp</li> -->
 			
 		<!-- </allowedBiomes> -->
 		
@@ -210,13 +210,13 @@
 
 			<li MayRequire="Ludeon.RimWorld.Odyssey">LavaField</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellTundra</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellLavaField</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellTundra</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellLavaField</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_NevarroHighland</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_NevarroLavaField</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_NevarroHighland</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_NevarroLavaField</li>
 			
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonHighland</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonHighland</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -361,8 +361,8 @@
 		
 		<allowedBiomes>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Scarlands</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellJunkyard</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellJunkSwamp</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellJunkyard</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellJunkSwamp</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -373,8 +373,8 @@
 		<volume>2</volume>
 		<allowedBiomes>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Scarlands</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellJunkyard</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellJunkSwamp</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellJunkyard</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellJunkSwamp</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -421,7 +421,7 @@
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Space</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Orbit</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_Orbit</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_Orbit</li>
 		</allowedBiomes>
 		
 		<volume>2</volume>
@@ -436,7 +436,7 @@
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Space</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Orbit</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_Orbit</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_Orbit</li>
 		</allowedBiomes>
 		
 		<volume>2</volume>
@@ -451,7 +451,7 @@
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Space</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Orbit</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_Orbit</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_Orbit</li>
 		</allowedBiomes>
 		
 		<volume>2</volume>
@@ -468,7 +468,7 @@
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Space</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Orbit</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_Orbit</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_Orbit</li>
 		</allowedBiomes>
 		
 		<volume>2</volume>
@@ -498,9 +498,9 @@
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Space</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Orbit</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_Orbit</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_Orbit</li>
 			
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellUrban</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellUrban</li>
 		</allowedBiomes>
 		
 		<volume>2</volume>
@@ -513,7 +513,7 @@
 		
 		<!-- <allowedTimeOfDay>Day</allowedTimeOfDay> -->
 		<allowedBiomes>
-			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellUrban</li> -->
+			<!-- <li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellUrban</li> -->
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -525,7 +525,7 @@
 		<!-- <allowedTimeOfDay>Night</allowedTimeOfDay> -->
 		<allowedBiomes>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Scarlands</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellUrban</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellUrban</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -536,8 +536,8 @@
 		
 		<allowedBiomes>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Scarlands</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellJunkyard</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellJunkSwamp</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellJunkyard</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellJunkSwamp</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -550,10 +550,10 @@
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Space</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Orbit</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_Orbit</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_Orbit</li>
 			
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellUrban</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonUrban</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellUrban</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonUrban</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -566,9 +566,9 @@
 		<allowedBiomes>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Scarlands</li>
 			
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellUrban</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonUrban</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_DxunJungle</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellUrban</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonUrban</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_DxunJungle</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -583,12 +583,12 @@
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Grasslands</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Scarlands</li>
 			
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellGrasslands</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellUrban</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellGrasslands</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellUrban</li>
 			
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonSavannah</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonVeldt</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonHighland</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonSavannah</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonVeldt</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonHighland</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -602,13 +602,13 @@
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Space</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Orbit</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_Orbit</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_Orbit</li>
 			
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Scarlands</li>
 			
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellJunkyard</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellJunkSwamp</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellUrban</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellJunkyard</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellJunkSwamp</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellUrban</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -618,8 +618,8 @@
 		<clipPath>SWCPmusic/SWWarlordEmpire/BiomesUrban_KotOR2_OnderonIzizCity</clipPath>
 		
 		<allowedBiomes>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellUrban</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonUrban</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellUrban</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonUrban</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -629,7 +629,7 @@
 		<clipPath>SWCPmusic/SWWarlordEmpire/BiomesUrban_KotOR2_OnderonRoyalPalace</clipPath>
 		
 		<allowedBiomes>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonUrban</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonUrban</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -649,13 +649,13 @@
 			<li>Desert</li>
 			<li>ExtremeDesert</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_TatooineExtremeDesert</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_TatooineHighland</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_TatooineExtremeDesert</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_TatooineHighland</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellScrubland</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellDesert</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellScrubland</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellDesert</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_NevarroAshFlatsDesert</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_NevarroAshFlatsDesert</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -669,11 +669,11 @@
 			<li>Desert</li>
 			<li>ExtremeDesert</li>
 
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_TatooineHighland</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellTundra</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_NevarroHighland</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonVeldt</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonHighland</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_TatooineHighland</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellTundra</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_NevarroHighland</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonVeldt</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonHighland</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -690,8 +690,8 @@
 		
 		<allowedBiomes>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Grasslands</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellGrasslands</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonSavannah</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellGrasslands</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonSavannah</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -708,12 +708,12 @@
 			<li>TemperateSwamp</li>
 			
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Grasslands</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellGrasslands</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellScrubland</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellTundra</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellGrasslands</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellScrubland</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellTundra</li>
 			
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonSavannah</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonVeldt</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonSavannah</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonVeldt</li>
 		</allowedBiomes>
     </MusicExpanded.TrackDef>
 	
@@ -737,12 +737,12 @@
 
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Glowforest</li>
 			
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OrdMantellJunkSwamp</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OrdMantellJunkSwamp</li>
 			
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonJungle</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_OnderonSwampyJungle</li>	
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_DxunJungle</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_DxunSwamp</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonJungle</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_OnderonSwampyJungle</li>	
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_DxunJungle</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_DxunSwamp</li>
 		</allowedBiomes>
 		
 		<volume>2</volume>
@@ -758,8 +758,8 @@
 
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Glowforest</li>
 	
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_DxunJungle</li>
-			<li MayRequire="SWCP.guy762.Taran.SWGalaxy">SWCPBiome_DxunSwamp</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_DxunJungle</li>
+			<li MayRequire="SWCP.guy762.Taran.SWGalaxy.gbp">SWCPBiome_DxunSwamp</li>
 		</allowedBiomes>
 		
 		<volume>2</volume>
